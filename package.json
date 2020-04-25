@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/cardosojohnnedev/meu-primeiro-projeto#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp-sass": "^4.1.0"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "sass": "^1.26.5"
   }
 }
