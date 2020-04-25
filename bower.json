@@ -1,0 +1,21 @@
+{
+  "name": "Pasta do projeto",
+  "homepage": "https://github.com/cardosojohnnedev/meu-primeiro-projeto",
+  "authors": [
+    "João <contato.joaocardoso@icloud.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
